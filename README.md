@@ -1,6 +1,3 @@
-## Inspiration
-
-
 ## What it does
 
 This AI predicts the number of accidents per month on any street given the the quality of the road and circumstantial factors such as weather, speed limits. This enables it to predict which factors contribute to an increase in risk, which help detect fixable anomalies (ex. incorrect road signs and lights).
